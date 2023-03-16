@@ -1,4 +1,5 @@
-# Graduation Portfolio - Sepsis Detection by Machine Learning Techniques \
+# Graduation Portfolio - Sepsis Detection by Machine Learning Techniques 
+
 Sepsis is a life-threatening condition that occurs when the body's response to infection causes tissue
 damage, organ failure, or death (Singer et al., 2016). According to WHO and CDC's data, nearly 270k+
 people die from Sepsis, and 24 billion would be spent on the treatment of Sepsis in U.S hospitals each
@@ -16,4 +17,5 @@ learning algorithms in the diagnosis of Sepsis status. After conducting each alg
 the test error rate and train error rate as well as compare the accuracy and efficiency for different models.
 Therefore, We believe our actionable proposed model could be used in the future and real world to help
 reduce the odds of having Sepsis and save costs.
+
 #### Please read the report and poster
