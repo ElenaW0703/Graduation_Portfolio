@@ -1,4 +1,4 @@
-# Graduation Portfolio - Sepsis Detection by Machine Learning Techniques
+# Graduation Portfolio - Sepsis Detection by Machine Learning Techniques \
 Sepsis is a life-threatening condition that occurs when the body's response to infection causes tissue
 damage, organ failure, or death (Singer et al., 2016). According to WHO and CDC's data, nearly 270k+
 people die from Sepsis, and 24 billion would be spent on the treatment of Sepsis in U.S hospitals each
